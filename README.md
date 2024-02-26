@@ -17,6 +17,8 @@ The live version of the project is accessible [here]( https://prateekyadav01.git
 ## Features
 
 Javascript-- document -- getElementById
+add the styling like
+className.style.backgroundColor:"red"
 
 another way to use it  by
 Object.assign -- by using this method
