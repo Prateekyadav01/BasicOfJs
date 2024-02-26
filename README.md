@@ -12,9 +12,7 @@ To view the live version of the project, follow these steps:
 
 The live version of the project is accessible [here]( https://prateekyadav01.github.io/BasicOfJs/).
 
-## Prerequisites
 
-List any prerequisites required to run the project, such as web browsers or software dependencies.
 
 ## Features
 
